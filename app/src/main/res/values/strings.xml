@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PadMapper</string>
+    <string name="a11y_desc">Menangkap tombol keyboard/gamepad untuk dipetakan menjadi sentuhan layar.</string>
+</resources>
